@@ -12,9 +12,6 @@ module.exports = defineConfig({
     video: true,
     screenshotOnRunFailure: true,
     chromeWebSecurity: false,
-    setupNodeEvents(on, config) {
-      // implement node event listeners here
-    },
     specPattern: 'cypress/e2e/tests/**/*.cy.js',
     supportFile: 'cypress/support/e2e.js'
   },
