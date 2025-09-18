@@ -14,7 +14,6 @@ Este projeto contém uma suíte completa de testes end-to-end (E2E) usando Cypre
 - [Comandos Customizados](#comandos-customizados)
 - [Testes Disponíveis](#testes-disponíveis)
 - [Boas Práticas](#boas-práticas)
-- [Contribuição](#contribuição)
 
 ## 🎯 Visão Geral
 
