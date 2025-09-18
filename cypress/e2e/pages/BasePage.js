@@ -1,6 +1,6 @@
 class BasePage {
   constructor() {
-    this.url = ''
+    this.url = 'https://magento.nublue.co.uk/'
   }
 
   // Métodos comuns para todas as páginas
