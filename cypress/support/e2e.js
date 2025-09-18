@@ -1,9 +1,3 @@
-// ***********************************************************
-// Este arquivo é processado e carregado automaticamente antes
-// dos arquivos de teste. É um ótimo lugar para colocar
-// configurações globais e comportamentos que modificam o Cypress.
-// ***********************************************************
-
 import './commands'
 
 // Configurações globais
